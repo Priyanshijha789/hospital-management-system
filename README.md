@@ -40,6 +40,7 @@ Create a virtual environment:
 
 python -m venv env
 source env/bin/activate  # On Windows: env\Scripts\activate
+
 Install dependencies:
 
 pip install -r requirements.txt
@@ -49,10 +50,15 @@ python manage.py runserver
 Open in browser:
 
 http://127.0.0.1:8000/
+
 🙋‍♀️ Author
+
 👤 PriyanshiJha
+
 📧 priyanshijha437@gmail.com
+
 🔗 https://www.linkedin.com/in/priyanshi-jha
+
 🔗 https://Priyanshijha789/hospital-management-system-django
 
 
