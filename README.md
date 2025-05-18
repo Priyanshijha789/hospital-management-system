@@ -31,41 +31,23 @@ Database: SQLite (or your choice of SQL database)
 
 ⚙️ How to Run Locally
 Clone the repository:
-
-bash
-Copy
-Edit
 git clone https://github.com/your-username/hospital-management-system.git
 Navigate to project directory:
 
-bash
-Copy
-Edit
 cd hospital-management-system
 Create a virtual environment:
 
-bash
-Copy
-Edit
+
 python -m venv env
 source env/bin/activate  # On Windows: env\Scripts\activate
 Install dependencies:
 
-bash
-Copy
-Edit
 pip install -r requirements.txt
 Run the server:
 
-bash
-Copy
-Edit
 python manage.py runserver
 Open in browser:
 
-cpp
-Copy
-Edit
 http://127.0.0.1:8000/
 🙋‍♀️ Author
 👤 PriyanshiJha
